@@ -1,0 +1,44 @@
+ .github, .linkedin,.instagram{
+
+    align-items: center;
+    border-radius: 7px;
+   
+    margin: 5px;
+
+    background-color: #414040;
+    width: 150px;
+    height: 25px;
+    color: white;
+    border: 0;
+    text-decoration: none;
+    cursor: grab;
+
+}
+
+.github:hover{
+
+    transition: 0.5s;
+    background-color: #ffcb00;
+    opacity: 0.7;
+    color: black;
+
+}
+
+
+.linkedin:hover{
+
+    transition: 0.5s;
+    background-color: #ffcb00;
+    opacity: 0.7;
+    color: black;
+
+}
+
+.instagram:hover{
+
+    transition: 0.5s;
+    background-color: #ffcb00;
+    opacity: 0.7;
+    color: black;
+
+}
